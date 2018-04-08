@@ -1,8 +1,12 @@
 {
   "name": "electron-app",
   "version": "1.0.0",
-  "description": "This is electron app.",
-  "main": "main.js",
+  "description": "This is 'easy' comment box app.",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yagisuke/electron-easy-comment-box"
+  },
   "scripts": {
     "test": "test"
   },
